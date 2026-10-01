@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that parses an AWS S3 bucket name from a full S3 URI (e.g., 's3://my-bucket/path/to/file.txt') and returns just the bucket name."
+  },
+  {
+    "task": "Create a JSON CloudFormation template snippet that defines an AWS Lambda function with basic properties including FunctionName, Runtime set to 'python3.11', and a Role ARN."
+  },
+  {
+    "task": "Write a regex pattern that matches valid AWS IAM role ARNs in the format 'arn:aws:iam::123456789012:role/MyRoleName'."
+  }
+]
