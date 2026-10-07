@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Parse an AWS S3 bucket ARN and extract the bucket name using regex",
+    "format": "regex"
+  },
+  {
+    "task": "Write a Python function that validates an AWS IAM policy JSON structure for required fields like 'Version', 'Statement', and 'Effect'",
+    "format": "python"
+  },
+  {
+    "task": "Create a JSON CloudFormation template snippet for a simple AWS Lambda function with basic execution role",
+    "format": "json"
+  }
+]
