@@ -1,0 +1,48 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "82",
+      "goal": "Build muscle strength through weightlifting",
+      "restrictions": "Vegan, gluten-free"
+    },
+    "solution_criteria": [
+      "Meal plan covers 4 meals/snacks within one day",
+      "Provides at least 120g protein from vegan sources while respecting gluten-free constraint",
+      "Includes calorie targets suitable for a strength athlete of this size"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength-focused athlete (weightlifter) who has multiple dietary restrictions (vegan, gluten-free) to ensure the meal plan accommodates constraints while meeting protein requirements"
+  },
+  {
+    "prompt_inputs": {
+      "height": "182 cm",
+      "weight": "72 kg",
+      "goal": "Marathon training - create a 1-day meal plan with high energy density and optimized macronutrients for endurance performance",
+      "restrictions": "None - standard diet"
+    },
+    "solution_criteria": [
+      "Includes at least 4-5 meals/snacks distributed throughout the day",
+      "Provides energy-dense, carbohydrate-rich foods appropriate for marathon training",
+      "Specifies realistic portion sizes and caloric content suitable for endurance athlete needs",
+      "Meal plan is compact and concise, limited to 1 day format"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-performance endurance athlete (marathon runner) with standard diet and high caloric needs to verify appropriate macronutrient distribution and energy-dense meal suggestions"
+  },
+  {
+    "prompt_inputs": {
+      "height": "162",
+      "weight": "55",
+      "goal": "maintain lean muscle mass while minimizing excess calories",
+      "restrictions": "vegetarian"
+    },
+    "solution_criteria": [
+      "Meal plan contains 4-5 meals/snacks with appropriately scaled portion sizes for a 55kg athlete",
+      "Total daily calories align with lean mass maintenance goals for lightweight athletes",
+      "Plan includes adequate protein distribution across meals to support muscle retention"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a lightweight sport athlete (gymnast or rock climber) with modest height/weight metrics and a specific goal of maintaining lean muscle mass while minimizing excess calories to verify the plan appropriately scales portion sizes downward"
+  }
+]
